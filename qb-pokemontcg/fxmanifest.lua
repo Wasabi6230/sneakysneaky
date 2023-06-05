@@ -1,0 +1,44 @@
+lua54 'yes'
+name "cards"
+author "KamuiKody"
+
+ui_page "html/index.html"
+
+fx_version "cerulean"
+game "gta5"
+
+client_scripts {
+    '@menuv/menuv.lua',
+    'config.lua',
+    'openclient.lua',
+    'client.lua'
+}
+
+server_scripts {
+'@oxmysql/lib/MySQL.lua',
+ 'config.lua',
+ 'serverhidden.lua',
+ 'server.lua',
+}
+
+files {
+ 'html/index.html',
+ 'html/img/*.png',
+ 'html/script.js',
+ 'html/style.css',
+}
+
+dependencies {
+    'menuv'
+}
+
+escrow_ignore {
+    "config.lua",
+    'openclient.lua',
+    "server.lua"
+}
+
+data_file 'DLC_ITYP_REQUEST' 'stream/booster_props.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/prop_deckbox_01.ytyp'
+
+dependency '/assetpacks'

@@ -1,0 +1,3790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Kits>
+      <Item>
+      <kitName>874544_vessv_modkit</kitName>
+      <id value="874544" />	 	  
+      <kitType>MKT_STANDARD</kitType>
+      <visibleMods>
+        <Item>
+          <modelName>vessv_bootgarnish_1</modelName>
+          <modShopLabel>boot trim</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bootgarnish_2</modelName>
+          <modShopLabel>boot trim</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+     <Item>
+          <modelName>vessv_0null</modelName>
+          <modShopLabel>SLVAN3_HOOD1</modShopLabel>
+          <linkedModels>
+            <Item>vessv_butterfly_a</Item>
+            <Item>vessv_blowa</Item>
+	    <Item>vessv_sblade_l</Item>
+            <Item>vessv_sblade_r</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_q</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>vessv_0null</modelName>
+          <modShopLabel>SLVAN3_HOOD2</modShopLabel>
+          <linkedModels>
+            <Item>vessv_blowb</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_q</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>vessv_0null</modelName>
+          <modShopLabel>SLVAN3_HOOD3</modShopLabel>
+          <linkedModels>
+            <Item>vessv_blowc</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_q</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>vessv_0null</modelName>
+          <modShopLabel>SLVAN3_HOOD4</modShopLabel>
+          <linkedModels>
+            <Item>vessv_blowd</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_q</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+     <Item>
+          <modelName>vessv_0null</modelName>
+          <modShopLabel>SLVAN3_HOOD5</modShopLabel>
+          <linkedModels>
+            <Item>vessv_butterfly_2</Item>
+            <Item>vessv_blowe</Item>
+	    <Item>vessv_sblade_l</Item>
+            <Item>vessv_sblade_r</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_q</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+     <Item>
+          <modelName>vessv_0null</modelName>
+          <modShopLabel>SLVAN3_HOOD6</modShopLabel>
+          <linkedModels>
+            <Item>vessv_butterfly_2</Item>
+            <Item>vessv_blowf</Item>
+	    <Item>vessv_sblade_l</Item>
+            <Item>vessv_sblade_r</Item>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_q</Item>
+          </turnOffBones>
+          <type>VMT_ICE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_gxplights_rear</modelName>
+          <modShopLabel>rear lights</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_i</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_omegalights_rear</modelName>
+          <modShopLabel>rear lights</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_i</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_calaislights_rear</modelName>
+          <modShopLabel>rear lights</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_i</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_customlights_rear</modelName>
+          <modShopLabel>rear lights</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_i</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_gtslights_rear</modelName>
+          <modShopLabel>rear lights</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_i</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_lightcover_1</modelName>
+          <modShopLabel>front lights</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_lights_front_1</modelName>
+          <modShopLabel>front lights</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_lights_front_2</modelName>
+          <modShopLabel>front lights</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_lights_front_3</modelName>
+          <modShopLabel>front lights</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_lights_front_4</modelName>
+          <modShopLabel>front lights</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_lights_front_5</modelName>
+          <modShopLabel>front lights</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_lights_front_6</modelName>
+          <modShopLabel>front lights</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_plate_1</modelName>
+          <modShopLabel>plate front</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_n</Item>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_plate_2</modelName>
+          <modShopLabel>plate front</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_n</Item>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_plate_3</modelName>
+          <modShopLabel>plate front</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_n</Item>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_plate_null</modelName>
+          <modShopLabel>plate front</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_n</Item>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_1</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_2</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_3</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_4</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_5</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_6</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_7</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_8</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_9</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_10</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_11</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_12</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_13</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_14</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_15</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_16</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_17</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>        <Item>
+          <modelName>vessv_hood_18</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_19</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_20</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_21</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_22</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hood_null</modelName>
+          <modShopLabel>bonnet</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_splitter</modelName>
+          <modShopLabel>splitter</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_hoodclips</modelName>
+          <modShopLabel>hoodclips</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ENGINEBAY2</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_sideskirt_1</modelName>
+          <modShopLabel>skirt</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_l</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_muffler_1</modelName>
+          <modShopLabel>exhaust</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_k</Item>
+		<Item>exhaust_1</Item>
+		<Item>exhaust_2</Item>
+		<Item>exhaust_3</Item>
+		<Item>exhaust_4</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_muffler_2</modelName>
+          <modShopLabel>exhaust</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_k</Item>
+		<Item>exhaust_1</Item>
+		<Item>exhaust_2</Item>
+		<Item>exhaust_3</Item>
+		<Item>exhaust_4</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_muffler_3</modelName>
+          <modShopLabel>exhaust</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_k</Item>
+		<Item>exhaust_1</Item>
+		<Item>exhaust_2</Item>
+		<Item>exhaust_3</Item>
+		<Item>exhaust_4</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_muffler_4</modelName>
+          <modShopLabel>exhaust</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_k</Item>
+		<Item>exhaust_1</Item>
+		<Item>exhaust_2</Item>
+		<Item>exhaust_3</Item>
+		<Item>exhaust_4</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_null</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_1</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_2</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_3</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_4</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_5</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_6</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_7</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_8</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_9</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_10</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_11</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_12</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_13</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_14</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_grille_15</modelName>
+          <modShopLabel>grill</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_wing_null</modelName>
+          <modShopLabel>wing</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_wing_1</modelName>
+          <modShopLabel>wing</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_wing_2</modelName>
+          <modShopLabel>wing</modShopLabel>
+          <linkedModels>
+            <Item>vessv_wing_2_edges</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_wing_3</modelName>
+          <modShopLabel>wing</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_wing_4</modelName>
+          <modShopLabel>wing</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_wing_5</modelName>
+          <modShopLabel>wing</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_wing_6</modelName>
+          <modShopLabel>wing</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_wing_7</modelName>
+          <modShopLabel>wing</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_wing_8</modelName>
+          <modShopLabel>wing</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_wing_9</modelName>
+          <modShopLabel>wing</modShopLabel>
+          <linkedModels>
+            <Item>vessv_wing_9_edges</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_wing_10</modelName>
+          <modShopLabel>wing</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_guard_1</modelName>
+          <modShopLabel>guards</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_guard_2</modelName>
+          <modShopLabel>guards</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		<Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_guard_3</modelName>
+          <modShopLabel>guards</modShopLabel>
+          <linkedModels>
+            <Item>vessv_rwidearch_door_r</Item>
+            <Item>vessv_rwidearch_door_l</Item>
+            <Item>vessv_fwidearch_edge</Item>
+            <Item>vessv_rwidearch_edge</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperf_1</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperf_2</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperf_3</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperf_4</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperf_5</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperf_6</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperf_7</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperf_8</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperf_9</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperf_10</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperf_11</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperr_1</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperr_2</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperr_3</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperr_4</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_bumperr_5</modelName>
+          <modShopLabel>bumper</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_ss_guardnull</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_ss_guardnull</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_chevy_guards_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+            <Item>vessv_ss_doorbadge_l_black</Item>
+            <Item>vessv_ss_doorbadge_r_black</Item>
+            <Item>vessv_ss_boot_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_gxpbadge_side</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+            <Item>vessv_g8badge</Item>
+            <Item>vessv_gxpbadge_rear</Item>
+            <Item>vessv_pontiacbadge_rear</Item>
+            <Item>vessv_pontiacbadge_front</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_gxpbadge_side</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+            <Item>vessv_g8badge</Item>
+            <Item>vessv_gxpbadge_rear</Item>
+            <Item>vessv_pontiacbadge_rear_paint</Item>
+            <Item>vessv_pontiacbadge_front_paint</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_gxpbadge_side</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+            <Item>vessv_pontiacbadge_rear_paint</Item>
+            <Item>vessv_pontiacbadge_front_paint</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_gxpbadge_side_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+            <Item>vessv_g8badge_black</Item>
+            <Item>vessv_gxpbadge_rear_black</Item>
+            <Item>vessv_pontiacbadge_rear_black</Item>
+            <Item>vessv_pontiacbadge_front_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_gxpbadge_side_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+            <Item>vessv_g8badge_black</Item>
+            <Item>vessv_gxpbadge_rear_black</Item>
+            <Item>vessv_pontiacbadge_rear_paint_black</Item>
+            <Item>vessv_pontiacbadge_front_paint_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_gxpbadge_side_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+            <Item>vessv_pontiacbadge_rear_black</Item>
+            <Item>vessv_pontiacbadge_front_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_gxpbadge_side_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+            <Item>vessv_pontiacbadge_rear_paint_black</Item>
+            <Item>vessv_pontiacbadge_front_paint_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_gmbadge_side</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+            <Item>vessv_g8badge</Item>
+            <Item>vessv_gtbadge_rear</Item>
+            <Item>vessv_pontiacbadge_rear</Item>
+            <Item>vessv_pontiacbadge_front</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_gmbadge_side</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+            <Item>vessv_g8badge</Item>
+            <Item>vessv_gtbadge_rear</Item>
+            <Item>vessv_pontiacbadge_rear_paint</Item>
+            <Item>vessv_pontiacbadge_front_paint</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_gmbadge_side_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+            <Item>vessv_g8badge_black</Item>
+            <Item>vessv_gmbadge_rear_black</Item>
+            <Item>vessv_pontiacbadge_rear_black</Item>
+            <Item>vessv_pontiacbadge_front_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_gmbadge_side_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+            <Item>vessv_g8badge_black</Item>
+            <Item>vessv_gmbadge_rear_black</Item>
+            <Item>vessv_pontiacbadge_rear_paint_black</Item>
+            <Item>vessv_pontiacbadge_front_paint_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_gmbadge_side_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+            <Item>vessv_pontiacbadge_rear_black</Item>
+            <Item>vessv_pontiacbadge_front_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_gmbadge_side_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+            <Item>vessv_pontiacbadge_rear_paint_black</Item>
+            <Item>vessv_pontiacbadge_front_paint_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_ss_chevybadges</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_chevy_bootbadge</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_chevy_guards_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_ss_doorbadge_r_black</Item>
+		<Item>vessv_ss_doorbadge_l_black</Item>
+		<Item>vessv_chevy_bootbadge_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_d</Item>
+		<Item>misc_c</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_w427_guardbadge</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_w427_bootbadge</Item>
+		<Item>vessv_w427_hsv_bootbadge</Item>
+		<Item>vessv_w427_bonnetbadge</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_w427_guardbadge</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_w427_bootbadge</Item>
+		<Item>vessv_w427_hsv_bootbadge</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_w427_guardbadge</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_w427_bootbadge</Item>
+		<Item>vessv_w427_hsv_bootbadge</Item>
+		<Item>vessv_w427_grillbadge</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_w427_guardbadge_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_w427_bootbadge_black</Item>
+		<Item>vessv_w427_hsv_bootbadge_black</Item>
+		<Item>vessv_w427_bonnetbadge_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_w427_guardbadge_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_w427_bootbadge_black</Item>
+		<Item>vessv_w427_hsv_bootbadge_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_w427_guardbadge_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_w427_bootbadge_black</Item>
+		<Item>vessv_w427_hsv_bootbadge_black</Item>
+		<Item>vessv_w427_grillbadge_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_gtsbadge_guards</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_yellow</Item>
+		<Item>vessv_e3_bootbadge</Item>
+		<Item>vessv_e3_bonnetbadge</Item>
+		<Item>vessv_325badge</Item>
+		<Item>vessv_e3_gtsbadge_bumper</Item>
+		<Item>vessv_e3_gtsbadge_boot</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_gtsbadge_guards</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_yellow</Item>
+		<Item>vessv_e3_bootbadge</Item>
+		<Item>vessv_325badge</Item>
+		<Item>vessv_e3_gtsbadge_bumper</Item>
+		<Item>vessv_e3_gtsbadge_boot</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_gtsbadge_guards</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_e3_bonnetbadge</Item>
+		<Item>vessv_325badge</Item>
+		<Item>vessv_e3_gtsbadge_bumper</Item>
+		<Item>vessv_e3_gtsbadge_boot</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_gtsbadge_guards</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_325badge</Item>
+		<Item>vessv_e3_gtsbadge_bumper</Item>
+		<Item>vessv_e3_gtsbadge_boot</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_gtsbadge_guards_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_yellow_black</Item>
+		<Item>vessv_e3_bootbadge_black</Item>
+		<Item>vessv_e3_bonnetbadge_black</Item>
+		<Item>vessv_325badge_black</Item>
+		<Item>vessv_e3_gtsbadge_bumper_black</Item>
+		<Item>vessv_e3_gtsbadge_boot_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_gtsbadge_guards_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_yellow_black</Item>
+		<Item>vessv_e3_bootbadge_black</Item>
+		<Item>vessv_325badge_black</Item>
+		<Item>vessv_e3_gtsbadge_bumper_black</Item>
+		<Item>vessv_e3_gtsbadge_boot_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_gtsbadge_guards_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_e3_bonnetbadge_black</Item>
+		<Item>vessv_325badge_black</Item>
+		<Item>vessv_e3_gtsbadge_bumper_black</Item>
+		<Item>vessv_e3_gtsbadge_boot_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_gtsbadge_guards_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_325badge_black</Item>
+		<Item>vessv_e3_gtsbadge_bumper_black</Item>
+		<Item>vessv_e3_gtsbadge_boot_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_yellow</Item>
+		<Item>vessv_r8badge</Item>
+		<Item>vessv_e3_bootbadge</Item>
+		<Item>vessv_e3_bonnetbadge</Item>
+		<Item>vessv_325badge</Item>
+		<Item>vessv_clubsport_doorbadge_r</Item>
+		<Item>vessv_clubsport_doorbadge_l</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_yellow</Item>
+		<Item>vessv_r8badge</Item>
+		<Item>vessv_e3_bootbadge</Item>
+		<Item>vessv_325badge</Item>
+		<Item>vessv_clubsport_doorbadge_r</Item>
+		<Item>vessv_clubsport_doorbadge_l</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_e3_bootbadge</Item>
+		<Item>vessv_e3_bonnetbadge</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_e3_bootbadge</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_yellow_black</Item>
+		<Item>vessv_r8badge_black</Item>
+		<Item>vessv_e3_bootbadge_black</Item>
+		<Item>vessv_e3_bonnetbadge_black</Item>
+		<Item>vessv_325badge_black</Item>
+		<Item>vessv_clubsport_doorbadge_r_black</Item>
+		<Item>vessv_clubsport_doorbadge_l_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_yellow_black</Item>
+		<Item>vessv_r8badge_black</Item>
+		<Item>vessv_e3_bootbadge_black</Item>
+		<Item>vessv_325badge_black</Item>
+		<Item>vessv_clubsport_doorbadge_r_black</Item>
+		<Item>vessv_clubsport_doorbadge_l_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_e3_bootbadge_black</Item>
+		<Item>vessv_e3_bonnetbadge_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_e3_bootbadge_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_lower_yellow</Item>
+		<Item>vessv_e3_bonnetbadge</Item>
+		<Item>vessv_325badge</Item>
+		<Item>vessv_clubsport_doorbadge_r</Item>
+		<Item>vessv_clubsport_doorbadge_l</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_lower_yellow</Item>
+		<Item>vessv_325badge</Item>
+		<Item>vessv_clubsport_doorbadge_r</Item>
+		<Item>vessv_clubsport_doorbadge_l</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_lower_yellow</Item>
+		<Item>vessv_e3_bonnetbadge</Item>
+		<Item>vessv_325badge</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_lower_yellow</Item>
+		<Item>vessv_325badge</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_lower_black</Item>
+		<Item>vessv_e3_bonnetbadge_black</Item>
+		<Item>vessv_325badge_black</Item>
+		<Item>vessv_clubsport_doorbadge_r_black</Item>
+		<Item>vessv_clubsport_doorbadge_l_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_lower_black</Item>
+		<Item>vessv_325badge_black</Item>
+		<Item>vessv_clubsport_doorbadge_r_black</Item>
+		<Item>vessv_clubsport_doorbadge_l_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_lower_black</Item>
+		<Item>vessv_e3_bonnetbadge_black</Item>
+		<Item>vessv_325badge_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_guardbadge_black</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>vessv_hsvflag_lower_black</Item>
+		<Item>vessv_325badge_black</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+		<Item>misc_g</Item>
+		<Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
+      <linkMods>
+     <Item>
+          <modelName>vessv_blowf</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+     <Item>
+          <modelName>vessv_blowe</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+     <Item>
+          <modelName>vessv_blowd</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+     <Item>
+          <modelName>vessv_blowc</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+     <Item>
+          <modelName>vessv_blowa</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+	    <Item>
+          <modelName>vessv_blowb</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+	    <Item>
+          <modelName>vessv_butterfly_2</modelName>
+          <bone>misc_u</bone>
+          <turnOffExtra value="false" />
+        </Item>
+	    <Item>
+          <modelName>vessv_butterfly_a</modelName>
+          <bone>misc_v</bone>
+          <turnOffExtra value="false" />
+        </Item>
+	    <Item>
+          <modelName>vessv_sblade_l</modelName>
+          <bone>misc_t</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>vessv_sblade_r</modelName>
+          <bone>misc_s</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_hsvflag_lower_black</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_hsvflag_lower_yellow</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_r8badge</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_doorbadge_r</modelName>
+          <bone>door_pside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_doorbadge_l</modelName>
+          <bone>door_dside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_r8badge_black</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_doorbadge_r_black</modelName>
+          <bone>door_pside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_clubsport_doorbadge_l_black</modelName>
+          <bone>door_dside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_hsvflag_yellow</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_bootbadge</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_bonnetbadge</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_bonnetbadge</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_325badge</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_gtsbadge_bumper</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_gtsbadge_boot</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_hsvflag_yellow_black</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_bootbadge_black</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_bonnetbadge_black</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_bonnetbadge_black</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_325badge_black</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_gtsbadge_bumper_black</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_e3_gtsbadge_boot_black</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_w427_bootbadge_black</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_w427_hsv_bootbadge_black</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_w427_grillbadge_black</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_w427_bonnetbadge_black</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_w427_bootbadge</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_w427_hsv_bootbadge</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_w427_grillbadge</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_w427_bonnetbadge</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_hdt_guards_r</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_hdt_grille</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_hdt_lights</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_hdt_boot</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_chevy_bootbadge_black</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_ss_doorbadge_l_black</modelName>
+          <bone>door_dside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_ss_doorbadge_r_black</modelName>
+          <bone>door_pside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_ss_boot_black</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_g8badge</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_gxpbadge_rear</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_pontiacbadge_rear</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_pontiacbadge_rear_paint</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_pontiacbadge_front</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_pontiacbadge_front_paint</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_g8badge_black</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_gxpbadge_rear_black</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_pontiacbadge_rear_black</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_pontiacbadge_rear_paint_black</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_pontiacbadge_front_black</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_pontiacbadge_front_paint_black</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_gtbadge_rear</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_gtbadge_rear_black</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_chevy_bootbadge</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_rwidearch_door_l</modelName>
+          <bone>door_pside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_rwidearch_door_r</modelName>
+          <bone>door_dside_r</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_fwidearch_edge</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_rwidearch_edge</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_wing_9_edges</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>vessv_wing_2_edges</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+      </linkMods>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="200" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="300" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="300" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>	
+		<Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="5" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="15" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="35" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+
+      </statMods>
+      <slotNames>
+      </slotNames>
+      <liveryNames>
+        <Item>vessv_SIGN0</Item>
+        <Item>vessv_SIGN1</Item>
+        <Item>vessv_SIGN2</Item>
+        <Item>vessv_SIGN3</Item>
+        <Item>vessv_SIGN4</Item>
+        <Item>vessv_SIGN5</Item>
+        <Item>vessv_SIGN6</Item>
+        <Item>vessv_SIGN7</Item>
+        <Item>vessv_SIGN8</Item>
+      </liveryNames>
+    </Item>
+  </Kits>
+  <Lights>
+  </Lights>
+</CVehicleModelInfoVarGlobal>

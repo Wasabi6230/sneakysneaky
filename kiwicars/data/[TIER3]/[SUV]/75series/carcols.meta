@@ -1,0 +1,3062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Kits>
+      <Item>
+      <kitName>8282600_75series_modkit</kitName>
+      <id value="8282600" />	 	  
+      <kitType>MKT_STANDARD</kitType>
+      <visibleMods>
+        <Item>
+          <modelName>75series_tray_null</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>75series_tray_null</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>75series_tray_null</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>75series_tray_alloy</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_tray_alloy_edges</Item>
+	     <Item>75series_tray_alloy_headboard</Item>
+	     <Item>75series_tray_alloy_wheels</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>75series_tray_alloy</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_tray_alloy_edges</Item>
+	     <Item>75series_tray_alloy_headboard</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>	
+	 <Item>
+          <modelName>75series_tray_alloy</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_tray_alloy_edges</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>		
+	 <Item>
+          <modelName>75series_tray_alloy</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_tray_alloy_wheels</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>75series_tray_alloy</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>75series_tray_squashy</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_tray_squashy_lights</Item>
+	     <Item>75series_tray_squashy_wheels</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>75series_tray_squashy</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_tray_squashy_lights</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>	 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>75series_tray_squashy</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_tray_squashy_lights</Item>
+ 	     <Item>75series_tray_squashy_toolbox</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>75series_tray_squashy</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_tray_squashy_lights</Item>
+ 	     <Item>75series_tray_squashy_toolbox</Item>
+ 	     <Item>75series_tray_squashy_toolbox_wheels</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>75series_tray_squashywood</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_tray_squashy_lights</Item>
+	     <Item>75series_tray_squashy_wheels</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>75series_tray_squashywood</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_tray_squashy_lights</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>75series_tray_squashywood</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_tray_squashy_lights</Item>
+ 	     <Item>75series_tray_squashy_toolbox</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>75series_tray_squashywood</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_tray_squashy_lights</Item>
+ 	     <Item>75series_tray_squashy_toolbox</Item>
+ 	     <Item>75series_tray_squashy_toolbox_wheels</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>75series_tray_customfab</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>75series_tray_customfab</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+ 	     <Item>75series_tray_customfab_toolbox</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>75series_tray_customfab</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+ 	     <Item>75series_tray_customfab_toolbox</Item>
+ 	     <Item>75series_tray_customfab_toolbox_wheels</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>75series_tray_comp</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+ 	     <Item>75series_tray_comp_lights</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+	 <Item>
+          <modelName>75series_tray_comp</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_o</Item>
+		 <Item>misc_j</Item>
+		 <Item>misc_k</Item>
+		 <Item>misc_i</Item>
+		 <Item>boot</Item>		 
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_null</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_1</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumperf</bone>
+          <collisionBone>bumperf</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_2</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_2</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_2_antenna</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_3</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_3</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_3_antenna</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_3</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_3_antenna</Item>
+	     <Item>75series_bumperf_3_brushbars</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_3</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_3_brushbars</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_4</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_4</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_3_antenna</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_4</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_3_antenna</Item>
+	     <Item>75series_bumperf_4_brushbars</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_4</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_4_brushbars</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_5</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_5</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_5_antenna</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_5</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_5_antenna</Item>
+	     <Item>75series_bumperf_5_fish</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_5</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_5_fish</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_6</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_6</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_5_antenna</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_6</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_5_antenna</Item>
+	     <Item>75series_bumperf_6_fish</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_6</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_6_fish</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_7</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_7</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_7_brushbars</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_8</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_8</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_8_brushbars</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_9</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_9</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_9_brushbars</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_9</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_9_brushbars</Item>
+	     <Item>75series_bumperf_9_fish</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_9</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+	     <Item>75series_bumperf_9_fish</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_1_foglights</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_2_foglights</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_3_foglights</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_5_foglights</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_7_foglights</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_9_foglights</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_foglights_stock</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_foglights_squashy</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_foglights_alloy</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_foglights_customfab</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_sidelights_1</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_m</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_sidelights_2</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_m</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_sidelights_3</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_m</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_frontlights_1</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_n</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_mirrorl_null</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>75series_mirrorr_1</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_mirrorl_1</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>75series_mirrorr_1</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_mirrorl_2</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>75series_mirrorr_2</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_mirrorl_3</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>75series_mirrorr_3</Item>
+          </linkedModels>
+          <turnOffBones>
+		<Item>misc_c</Item>
+		<Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablebonnetCamera value="false" />
+          <allowbonnetSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_wingmirror_1</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_KNOB</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_wingmirror_2</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_KNOB</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_snorkel_1</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_snorkel_2</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_snorkel_3</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_snorkel_4</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_snorkel_5</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_snorkel_6</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_fenders_front_1</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_fenders_front_2</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_fenders_front_3</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_fenders_front_1</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels>
+	     <Item>75series_fenders_rear_1</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_fenders_front_2</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels>
+	     <Item>75series_fenders_rear_2</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_fenders_front_3</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels>
+	     <Item>75series_fenders_rear_3</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_visor_1</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+		          <Item>
+          <modelName>75series_visor_1</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels>
+            <Item>75series_roof_rack</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+				          <Item>
+          <modelName>75series_visor_1</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels>
+            <Item>75series_roof_rack</Item>
+			<Item>75series_roof_light</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+	          <Item>
+          <modelName>75series_roof_rack</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+				          <Item>
+          <modelName>75series_roof_rack</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels>
+			<Item>75series_roof_light</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+		          <Item>
+          <modelName>75series_roof_light</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+				          <Item>
+          <modelName>75series_roof_light</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels>
+            <Item>75series_visor_1</Item>		  
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disablechassisCamera value="false" />
+          <allowchassisSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_hood_1</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_grill_1</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_grill_2</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_step_null</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_step_1</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_step_2</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_step_3</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_step_4</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_platef_1</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_platef_2</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_platef_3</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_platef_4</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_platef_5</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_platef_6</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_platef_7</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_platef_8</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLAQUE</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_plater_1</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_plater_2</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_plater_3</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_plater_4</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_plater_5</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_plater_6</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_plater_7</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+          <Item>
+          <modelName>75series_plater_8</modelName>
+          <modShopLabel>rear plate location</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_PLTHOLDER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_doorsticker_l_1</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>75series_doorsticker_r_1</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_LIVERY_MOD</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_doorsticker_l_1</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+		<Item>75series_doorsticker_r_1</Item>
+		<Item>75series_bonnetsticker_1</Item>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_LIVERY_MOD</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>door_dside_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_bonnetsticker_1</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_LIVERY_MOD</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_windowsticker_f_1</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_INTERIOR5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_windowsticker_f_2</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_INTERIOR5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_windowsticker_f_3</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_INTERIOR5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_windowsticker_f_4</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_INTERIOR5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_windowsticker_f_5</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_INTERIOR5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_windowsticker_f_6</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_INTERIOR5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_windowsticker_r_1</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_INTERIOR4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_windowsticker_r_2</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_INTERIOR4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_windowsticker_r_3</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_INTERIOR4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_windowsticker_r_4</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_INTERIOR4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_windowsticker_r_5</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_INTERIOR4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>75series_windowsticker_r_6</modelName>
+          <modShopLabel>badges</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+          </turnOffBones>
+          <type>VMT_INTERIOR4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableROOFCamera value="false" />
+          <allowROOFSlide value="true" />
+        </Item>
+      </visibleMods>
+      <linkMods>
+				        <Item>
+          <modelName>75series_tray_squashy_wheels</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		        <Item>
+          <modelName>75series_tray_squashy_lights</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		        <Item>
+          <modelName>75series_tray_squashy_toolbox</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+	        <Item>
+          <modelName>75series_tray_squashy_toolbox_wheels</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		        <Item>
+          <modelName>75series_tray_customfab_toolbox</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+				        <Item>
+          <modelName>75series_tray_customfab_toolbox_wheels</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_tray_comp_lights</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		        <Item>
+          <modelName>75series_tray_alloy_wheels</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		        <Item>
+          <modelName>75series_tray_alloy_headboard</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		        <Item>
+          <modelName>75series_tray_alloy_edges</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_9_fish</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_9_brushbars</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_8_brushbars</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_7_brushbars</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_5_antenna</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_6_fish</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_5_fish</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_4_brushbars</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_3_brushbars</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_3_antenna</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_bumperf_2_antenna</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_fenders_rear_1</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_fenders_rear_2</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_fenders_rear_3</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_mirrorr_1</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_mirrorr_2</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_mirrorr_3</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_roof_light</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_roof_rack</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_visor_1</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_doorsticker_r_1</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+        <Item>
+          <modelName>75series_bonnetsticker_1</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+      </linkMods>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="200" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="300" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="300" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>	
+		<Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="30" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="90" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="120" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+		<Item>
+		  <identifier />
+		  <modifier value="50" />
+		  <audioApply value="0.250000" />
+		  <weight value="0" />
+		  <type>VMT_WHEELS_REAR_OR_HYDRAULICS</type>
+		</Item>
+		<Item>
+		  <identifier />
+		  <modifier value="100" />
+		  <audioApply value="0.500000" />
+		  <weight value="0" />
+		  <type>VMT_WHEELS_REAR_OR_HYDRAULICS</type>
+		</Item>
+		<Item>
+		  <identifier />
+		  <modifier value="50" />
+		  <audioApply value="0.750000" />
+		  <weight value="0" />
+		  <type>VMT_WHEELS_REAR_OR_HYDRAULICS</type>
+		</Item>
+		<Item>
+		  <identifier />
+		  <modifier value="100" />
+		  <audioApply value="1.000000" />
+		  <weight value="0" />
+		  <type>VMT_WHEELS_REAR_OR_HYDRAULICS</type>
+		</Item>
+      </statMods>
+      <slotNames>
+        <Item>
+          <slot>VMT_CHASSIS</slot>
+          <name>TOP_CAGE</name>
+        </Item>
+      </slotNames>
+      <liveryNames>
+        <Item>SLVAN3_SIGN0</Item>
+        <Item>SLVAN3_SIGN1</Item>
+        <Item>SLVAN3_SIGN2</Item>
+        <Item>SLVAN3_SIGN3</Item>
+        <Item>SLVAN3_SIGN4</Item>
+        <Item>SLVAN3_SIGN5</Item>
+        <Item>SLVAN3_SIGN6</Item>
+        <Item>SLVAN3_SIGN7</Item>
+        <Item>SLVAN3_SIGN8</Item>
+      </liveryNames>
+    </Item>
+  </Kits>
+  <Lights>
+  </Lights>
+</CVehicleModelInfoVarGlobal>

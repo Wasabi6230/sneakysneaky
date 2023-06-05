@@ -1,0 +1,239 @@
+@font-face {
+    font-family: "Bebas Nue";
+    src: url("./fonts/BebasNeuePro-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Bebas Nue";
+    src: url("./fonts/BebasNeuePro-Thin.ttf") format("truetype");
+	font-weight: 100;
+}
+
+@font-face {
+    font-family: "Bebas Nue";
+    src: url("./fonts/BebasNeuePro-Light.ttf") format("truetype");
+	font-weight: 200;
+}
+
+@font-face {
+    font-family: "Bebas Nue";
+    src: url("./fonts/BebasNeuePro-Middle.ttf") format("truetype");
+	font-weight: 300;
+}
+
+@font-face {
+    font-family: "Bebas Nue";
+    src: url("./fonts/BebasNeuePro-Italic.ttf") format("truetype");
+	font-style: italic;
+}
+
+@font-face {
+    font-family: "Bebas Nue";
+    src: url("./fonts/BebasNeuePro-Bold.ttf") format("truetype");
+    font-weight: bold;
+}
+
+
+html {
+	font-family:Bebas Nue;
+	background:transparent;
+}
+
+body {
+	/* -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	z-index:9999; */
+	background: transparent;
+}
+
+#wrap {
+	font-family:Bebas Nue;
+	top: 50%;
+	left:50%;
+	width: 100%;
+	height: 99%;
+    transform: translate(-50%, -50%);
+	position:absolute;
+	/* color: rgba(255, 255, 255, 1); */
+}
+
+
+/* -- BOTTOM -- */
+
+#btn-plaka {
+	width:16vw;
+	background:rgba(115,200,50,1);
+	border:none;
+	font-size:2vw;
+	line-height:2vw;
+	font-weight:600;
+	border-radius:0.2vw;
+	padding:0.8vw 2vw;
+	transition:0.2s;
+	cursor:pointer;
+	letter-spacing:0.1vw;
+	color: rgba(255,255,255,1);
+	text-transform:uppercase;
+	margin:0.3vw 1vw;
+	box-shadow: 0 0 2vw rgba(100,255,45,0.25);
+}
+
+#btn-plaka:hover {
+	box-shadow: 0 0 3vw rgba(100,255,45,0.6);
+}
+
+
+
+#btn-plakax {
+	width:16vw;
+	background:rgb(200, 50, 50);
+	border:none;
+	font-size:2vw;
+	line-height:2vw;
+	font-weight:600;
+	border-radius:0.2vw;
+	padding:0.8vw 2vw;
+	transition:0.2s;
+	cursor:pointer;
+	letter-spacing:0.1vw;
+	color: rgba(255,255,255,1);
+	text-transform:uppercase;
+	margin:0.3vw 1vw;
+	box-shadow: 0 0 2vw rgba(255, 45, 45, 0.25);
+}
+
+#btn-plakax:hover {
+	box-shadow: 0 0 3vw rgba(255, 45, 45, 0.6);
+}
+
+
+#btn-normal {
+	background:rgba(155,155,155, 0.15);
+	border:0.1vw solid rgba(255,255,255, 0.05);
+	width:100%;
+	font-size:1.4vw;
+	border-radius:0.2vw;
+	padding:0.8vw 1.6vw;
+	transition:0.2s;
+	cursor:pointer;
+	letter-spacing:0.1vw;
+	color: rgba(255,255,255,1);
+	text-transform:uppercase;
+	margin:0.3vw 0;
+}
+
+#btn-normal:hover {
+	background:rgba(255,255,255, 0.20);
+	color:#fff;
+	border:0.1vw solid rgba(255,255,255, 0.1);
+	box-shadow: 0 0 4vw rgba(255,255,255,0.1);
+}
+
+#btn-important {
+	background:rgba(255,205,50,1);
+	border:0.1vw solid rgba(255,255,255, 0.1);
+	font-size:1.4vw;
+	font-weight:400;
+	border-radius:0.2vw;
+	padding:0.8vw 1.6vw;
+	width:100%;
+	transition:0.2s;
+	cursor:pointer;
+	letter-spacing:0.1vw;
+	color: rgba(255,255,255,1);
+	text-transform:uppercase;
+	margin:0.3vw 0;
+}
+
+#btn-important:hover {
+	background:rgba(255,205,40,1);
+	border:0.1vw solid rgba(255,220,60,1);
+	box-shadow: 0 0 4vw rgba(255,220,40,0.4);
+}
+
+#btn-random {
+	background:rgba(155,155,155, 0.15);
+	border:0.1vw solid rgba(255,255,255, 0.05);
+	width:100%;
+	font-size:1.4vw;
+	border-radius:0.2vw;
+	padding:0.8vw 1.6vw;
+	transition:0.2s;
+	cursor:pointer;
+	letter-spacing:0.1vw;
+	color: rgba(255,255,255,1);
+	text-transform:uppercase;
+	margin:0.3vw 0;
+}
+
+#btn-random:hover {
+	background:rgba(255,100,65, 1);
+	color:#fff;
+	border:0.1vw solid rgba(255,100,65, 1);
+	box-shadow: 0 0 4vw rgba(255,50,0,0.4);
+}
+
+
+
+::-webkit-scrollbar-track,
+	::-webkit-scrollbar-track {
+		background: rgba(255,255,255,0.1);
+		border: none;
+		border-radius:0.5vw;
+	}
+
+	::-webkit-scrollbar,
+	::-webkit-scrollbar {
+		width: 0.2vw;
+		background-color: transparent;
+		border-radius:0.5vw;
+	}
+
+	::-webkit-scrollbar-thumb,
+	::-webkit-scrollbar-thumb {
+		background: rgba(255,200,40,1);
+		border: 0.1vw solid rgba(255,200,40,1);
+		border-radius:0.5vw;
+	}
+
+	  .plaka {
+		display: none;
+		width: -webkit-fill-available;
+		height: -webkit-fill-available;
+		/* background: rgb(0,0,0,0.7); */
+		z-index: 1000;
+		position: relative;
+		padding-top: 15%;
+
+	  }
+
+	  .orta {
+		margin: auto;
+        position: relative;
+		background: url(../images/sa-plate.png);
+		width: 372px;
+		height: 210px;
+	  }
+
+	  .inp {
+		position: relative;
+		top: 33%;
+		margin-left: 2%;
+		display: inline-block;
+		width: 9%;
+		text-align: center;
+		background: unset;
+		border: none;
+		font-weight: 500;
+		color: #080852;
+		font-size: 40px;
+	}
+
+      .alt {
+        position: absolute;
+        top: 600px;
+        left: 30%;
+        zoom: 35%;
+      }

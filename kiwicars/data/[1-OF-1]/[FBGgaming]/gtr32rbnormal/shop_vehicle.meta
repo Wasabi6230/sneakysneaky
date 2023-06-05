@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_GTR32RBNORMAL_VEH</lockHash>
+			<modelNameHash>gtr32rbnormal</modelNameHash>
+			<cost value="100"/>
+			<textLabel>GTR32RBNORMAL</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+		<Item>
+			<lockHash>CU_GTR32RBCAMBER_VEH</lockHash>
+			<modelNameHash>gtr32rbcamber</modelNameHash>
+			<cost value="100"/>
+			<textLabel>GTR32RBCAMBER</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+		<Item>
+			<lockHash>CU_ _VEH</lockHash>
+			<modelNameHash></modelNameHash>
+			<cost value="100"/>
+			<textLabel></textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+
+
+	</Vehicles>	
+</ShopVehicleDataArray>

@@ -1,0 +1,7 @@
+fx_version "cerulean"
+game "gta5"
+
+data_file "DLC_ITYP_REQUEST" "stream/loq_atm.ytyp"
+
+lua54 'yes'
+dependency '/assetpacks'

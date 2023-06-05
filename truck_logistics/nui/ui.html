@@ -1,0 +1,870 @@
+<html lang="en" class="">
+	<head>
+		<meta charset="UTF-8">
+		<title>Truck Logistics</title>
+		<meta name="robots" content="noindex">
+		<link rel="stylesheet" href="style.css">
+		
+		<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
+			
+		<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	</head>
+
+	<body>
+		<div class="main" style="display: none;">
+			<div class="backdrop-blur"></div>
+			<nav class="sidebar-navigation">
+				<ul id="sidebar-ul">
+					
+				</ul>
+			</nav>
+			<div class="container-pages">
+				<div class="pages main-page">
+					<div class="container-fluid">
+						<section id="minimal-statistics-main">
+							<div class="row">
+								<div class="col-12 mt-3 mb-1" id="statistics-title-div">
+									
+								</div>
+							</div>
+							<div class="row">
+								<div class="card">
+									<div class="card-content">
+										<div class="card-body">
+											<div class="media d-flex">
+												<div class="media-body text-left">
+													<h3 id="profile-money" class="text-success"></h3>
+													<span id="profile-money-span"></span>
+												</div>
+												<div class="align-self-center">
+													<i class="fas fa-money-check-alt text-success font-large-2 float-right"></i>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card">
+									<div class="card-content">
+										<div class="card-body">
+											<div class="media d-flex">
+												<div class="media-body text-left">
+													<h3 id="profile-money-earned" class="text-success"></h3>
+													<span id="profile-money-earned-span"></span>
+												</div>
+												<div class="align-self-center">
+													<i class="fas fa-money-check text-success font-large-2 float-right"></i>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card">
+									<div class="card-content">
+										<div class="card-body">
+											<div class="media d-flex">
+												<div class="media-body text-left">
+													<h3 id="profile-deliveries" class="blue"></h3>
+													<span id="profile-deliveries-span"></span>
+												</div>
+												<div class="align-self-center">
+													<i class="fas fa-truck-loading blue font-large-2 float-right"></i>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card">
+									<div class="card-content">
+										<div class="card-body">
+											<div class="media d-flex">
+												<div class="media-body text-left">
+													<h3 id="profile-distance-traveled" class="blue"></h3>
+													<span id="profile-distance-traveled-span"></span>
+												</div>
+												<div class="align-self-center">
+													<i class="fas fa-route blue font-large-2 float-right"></i>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<div class="row">
+								<div class="card">
+									<div class="card-content">
+										<div class="card-body">
+											<div class="media d-flex">
+												<div class="media-body text-left">
+													<h3 id="profile-exp-1" class="amber accent-4"></h3>
+													<span id="profile-exp-1-span"></span>
+												</div>
+												<div class="align-self-center">
+													<i class="fas fa-chart-line amber accent-4 font-large-2 float-right"></i>
+												</div>
+											</div>
+											<div id="profile-exp-2" class="progress mt-1 mb-0" style="height: 7px;">
+												<!-- <div class="progress-bar bg-amber accent-4" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div> -->
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card">
+									<div class="card-content">
+										<div class="card-body">
+											<div class="media d-flex">
+												<div class="media-body text-left">
+													<h3 id="profile-skill-points" class="amber accent-4"></h3>
+													<span id="profile-skill-points-span"></span>
+												</div>
+												<div class="align-self-center">
+													<i class="fas fa-medal amber accent-4 font-large-2 float-right"></i>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card">
+									<div class="card-content">
+										<div class="card-body">
+											<div class="media d-flex">
+												<div class="media-body text-left">
+													<h3 id="profile-trucks" class="info"></h3>
+													<span id="profile-trucks-span"></span>
+												</div>
+												<div class="align-self-center">
+													<i class="fas fa-truck info font-large-2 float-right"></i>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="card">
+									<div class="card-content">
+										<div class="card-body">
+											<div class="media d-flex">
+												<div class="media-body text-left">
+													<h3 id="profile-drivers" class="info"></h3>
+													<span id="profile-drivers-span"></span>
+												</div>
+												<div class="align-self-center">
+													<i class="fas fa-user-friends info font-large-2 float-right"></i>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div id="top-truckers-title-div" class="col-12 mt-3 mb-1">
+								
+							</div>
+							<div class="mt-3">
+								<ul id="top-truckers-list" class="list list-inline">
+									<!-- <li class="d-flex justify-content-between">
+										<div class="d-flex flex-row align-items-center"><i class="fas fa-medal amber accent-4"></i>
+											<div class="ml-2">
+												<h6 class="mb-0">[Nome]</h6>
+												<div class="d-flex flex-row mt-1 text-black-50 date-time">
+													<div><i class="fas fa-route"></i></i><span class="ml-2">Distancia viajada: 22km</span></div>
+													<div class="ml-3"><i class="fas fa-chart-line"></i></i><span class="ml-2">EXP: 6.000</span></div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li class="d-flex justify-content-between">
+										<div class="d-flex flex-row align-items-center"><i class="fas fa-medal blue-grey lighten-3"></i>
+											<div class="ml-2">
+												<h6 class="mb-0">[Nome]</h6>
+												<div class="d-flex flex-row mt-1 text-black-50 date-time">
+													<div><i class="fas fa-route"></i></i><span class="ml-2">Distancia viajada: 22km</span></div>
+													<div class="ml-3"><i class="fas fa-chart-line"></i></i><span class="ml-2">EXP: 6.000</span></div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li class="d-flex justify-content-between">
+										<div class="d-flex flex-row align-items-center"><i class="fas fa-medal bronze"></i>
+											<div class="ml-2">
+												<h6 class="mb-0">[Nome]</h6>
+												<div class="d-flex flex-row mt-1 text-black-50 date-time">
+													<div><i class="fas fa-route"></i></i><span class="ml-2">Distancia viajada: 22km</span></div>
+													<div class="ml-3"><i class="fas fa-chart-line"></i></i><span class="ml-2">EXP: 6.000</span></div>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li class="d-flex justify-content-between">
+										<div class="d-flex flex-row align-items-center"><i class="fa fa-check-circle checkicon"></i>
+											<div class="ml-2">
+												<h6 class="mb-0">[Nome]</h6>
+												<div class="d-flex flex-row mt-1 text-black-50 date-time">
+													<div><i class="fas fa-route"></i></i><span class="ml-2">Distancia viajada: 22km</span></div>
+													<div class="ml-3"><i class="fas fa-chart-line"></i></i><span class="ml-2">EXP: 6.000</span></div>
+												</div>
+											</div>
+										</div>
+									</li> -->
+								</ul>
+							</div>
+						</section>
+					</div>
+				</div>
+				
+				<div class="pages job-page">
+					<div class="row">
+						<div class="col-md-12">
+							<div id="job-title-div" class="col-12 mt-3 mb-1">
+								
+							</div>
+							<div id="job-page-list" class="mt-3">
+								<!-- <ul class="list list-inline">
+									<li class="d-flex justify-content-between">
+										<div class="d-flex flex-row align-items-center"><i class="fa fa-check-circle checkicon"></i>
+											<div class="ml-2">
+												<h6 class="mb-0">Kickoff meeting</h6>
+												<div class="d-flex flex-row mt-1 text-black-50 date-time">
+													<div><i class="fas fa-route"></i></i><span class="ml-2">Distance: 22km</span></div>
+													<div class="ml-3"><i class="fas fa-coins"></i></i><span class="ml-2">Reward: 6.000</span></div>
+												</div>
+											</div>
+										</div>
+										<div class="d-flex flex-row align-items-center">
+											<button class="btn btn-primary">Start Job</button>
+										</div>
+									</li>
+								</ul> -->
+							</div>
+							<div>
+								<i class="fa fa-clock-o"></i><span id="new-contracts-2" class="ml-2"></span>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="pages freight-page">
+					<div class="row">
+						<div class="col-md-12">
+							<div id="freight-title-div" class="col-12 mt-3 mb-1">
+
+							</div>
+							<div id="freight-page-list" class="mt-3">
+								<!-- <ul class="list list-inline">
+									<li class="d-flex justify-content-between">
+										<div class="d-flex flex-row align-items-center"><i class="fa fa-check-circle checkicon"></i>
+											<div class="ml-2">
+												<h6 class="mb-0">Kickoff meeting</h6>
+												<div class="d-flex flex-row mt-1 text-black-50 date-time">
+													<div><i class="fas fa-route"></i></i><span class="ml-2">Distance: 22km</span></div>
+													<div class="ml-3"><i class="fas fa-coins"></i></i><span class="ml-2">Reward: 6.000</span></div>
+												</div>
+											</div>
+										</div>
+										<div class="d-flex flex-row align-items-center">
+											<div class="d-flex flex-column mr-2">
+												<div class="profile-image">
+													<div data-tooltip="Explosivos"><img data-toggle="tooltip" title="Hooray!" class="rounded-circle" src="img/icons/explosive-1.png" width="30"></div>
+													<div data-tooltip="Explosivos"><img class="rounded-circle" src="img/icons/flamable-2.png" width="30"></div>
+													<div data-tooltip="Explosivos"><img class="rounded-circle" src="img/icons/flamable-3.png" width="30"></div>
+													<div data-tooltip="Explosivos"><img class="rounded-circle" src="img/icons/flamable-4.png" width="30"></div>
+													<div data-tooltip="Explosivos"><img class="rounded-circle" src="img/icons/toxic-6.png" width="30"></div>
+													<div data-tooltip="Explosivos"><img class="rounded-circle" src="img/icons/corrosive-8.png" width="30"></div>
+													<div data-tooltip="Explosivos"><img class="rounded-circle" src="img/icons/fragile.png" width="30"></div>
+													<div data-tooltip="Explosivos"><img class="rounded-circle" src="img/icons/valuable.png" width="30"></div>
+												</div>
+											</div>
+											<button onclick="startJob()" class="btn btn-primary">Start Job</button>
+										</div>
+									</li>
+								</ul> -->
+							</div>
+							<div>
+								<i class="fa fa-clock-o"></i><span id="new-contracts-1" class="ml-2"></span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="pages skills-page">
+					<div class="col-12 mt-3 mb-1">
+						<h4 id="skills-title" class="text-uppercase"></h4>
+						<p id="skills-desc"></p>
+					</div>
+					<div class="container-progresses">
+						<div>
+							<h3 id="product-type-title"></h3>
+						</div>
+						<div id="product_type" class="progresses">
+							<!-- <div class="redsteps" onclick="setSkill('product_type',1)"> <span class="font-weight-bold">1</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('product_type',2)"> <span class="font-weight-bold">2</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('product_type',3)"> <span class="font-weight-bold">3</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('product_type',4)"> <span class="font-weight-bold">4</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('product_type',5)"> <span class="font-weight-bold">5</span> </div> -->
+						</div>
+						<div class="skill-description">
+							<div class="accordion" id="product-type-desc-accordion">
+								<div class="card w-100 m-0">
+									<div class="card-header" id="heading-product-type-accordion">
+										<h2 class="mb-0">
+											<button id="skills-description-1" class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse-product-type-accordion" aria-expanded="false" aria-controls="collapse-product-type-accordion"></button>
+										</h2>
+									</div>
+									<div id="collapse-product-type-accordion" class="collapse" aria-labelledby="heading-product-type-accordion" data-parent="#product-type-desc-accordion">
+										<div id="product-type-desc" class="card-body">
+											
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container-progresses">
+						<div>
+							<h3 id="distance-title"></h3>
+						</div>
+						<div id="distance" class="progresses">
+							<!-- <div class="redsteps" onclick="setSkill('distance',1)"> <span class="font-weight-bold">1</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('distance',2)"> <span class="font-weight-bold">2</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('distance',3)"> <span class="font-weight-bold">3</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('distance',4)"> <span class="font-weight-bold">4</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('distance',5)"> <span class="font-weight-bold">5</span> </div> -->
+						</div>
+						<div class="skill-description">
+							<div class="accordion" id="distance-desc-accordion">
+								<div class="card w-100 m-0">
+									<div class="card-header" id="heading-distance-accordion">
+										<h2 class="mb-0">
+											<button id="skills-description-2" class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse-distance-accordion" aria-expanded="false" aria-controls="collapse-distance-accordion"></button>
+										</h2>
+									</div>
+									<div id="collapse-distance-accordion" class="collapse" aria-labelledby="heading-distance-accordion" data-parent="#distance-desc-accordion">
+										<div id="distance-desc" class="card-body">
+											
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container-progresses">
+						<div>
+							<h3 id="valuable-skill-title"></h3>
+						</div>
+						<div id="valuable" class="progresses">
+							<!-- <div class="redsteps" onclick="setSkill('valuable',1)"> <span class="font-weight-bold">1</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('valuable',2)"> <span class="font-weight-bold">2</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('valuable',3)"> <span class="font-weight-bold">3</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('valuable',4)"> <span class="font-weight-bold">4</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('valuable',5)"> <span class="font-weight-bold">5</span> </div> -->
+						</div>
+						<div class="skill-description">
+							<div class="accordion" id="valuable-skill-desc-accordion">
+								<div class="card w-100 m-0">
+									<div class="card-header" id="heading-valuable-skill-accordion">
+										<h2 class="mb-0">
+											<button id="skills-description-3" class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse-valuable-skill-accordion" aria-expanded="false" aria-controls="collapse-valuable-skill-accordion"></button>
+										</h2>
+									</div>
+									<div id="collapse-valuable-skill-accordion" class="collapse" aria-labelledby="heading-valuable-skill-accordion" data-parent="#valuable-skill-desc-accordion">
+										<div id="valuable-skill-desc" class="card-body">
+											
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container-progresses">
+						<div>
+							<h3 id="fragile-skill-title"></h3>
+						</div>
+						<div id="fragile" class="progresses">
+							<!-- <div class="redsteps" onclick="setSkill('fragile',1)"> <span class="font-weight-bold">1</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('fragile',2)"> <span class="font-weight-bold">2</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('fragile',3)"> <span class="font-weight-bold">3</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('fragile',4)"> <span class="font-weight-bold">4</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('fragile',5)"> <span class="font-weight-bold">5</span> </div> -->
+						</div>
+						<div class="skill-description">
+							<div class="accordion" id="fragile-skill-desc-accordion">
+								<div class="card w-100 m-0">
+									<div class="card-header" id="heading-fragile-skill-accordion">
+										<h2 class="mb-0">
+											<button id="skills-description-4" class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse-fragile-skill-accordion" aria-expanded="false" aria-controls="collapse-fragile-skill-accordion"></button>
+										</h2>
+									</div>
+									<div id="collapse-fragile-skill-accordion" class="collapse" aria-labelledby="heading-fragile-skill-accordion" data-parent="#fragile-skill-desc-accordion">
+										<div id="fragile-skill-desc" class="card-body">
+											
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="container-progresses">
+						<div>
+							<h3 id="fast-skill-title"></h3>
+						</div>
+						<div id="fast" class="progresses">
+							<!-- <div class="redsteps" onclick="setSkill('fast',1)"> <span class="font-weight-bold">1</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('fast',2)"> <span class="font-weight-bold">2</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('fast',3)"> <span class="font-weight-bold">3</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('fast',4)"> <span class="font-weight-bold">4</span> </div> <span class="redline"></span>
+							<div class="redsteps" onclick="setSkill('fast',5)"> <span class="font-weight-bold">5</span> </div> -->
+						</div>
+						<div class="skill-description">
+							<div class="accordion" id="fast-skill-desc-accordion">
+								<div class="card w-100 m-0">
+									<div class="card-header" id="heading-fast-skill-accordion">
+										<h2 class="mb-0">
+											<button id="skills-description-5" class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse-fast-skill-accordion" aria-expanded="false" aria-controls="collapse-fast-skill-accordion"></button>
+										</h2>
+									</div>
+									<div id="collapse-fast-skill-accordion" class="collapse" aria-labelledby="heading-fast-skill-accordion" data-parent="#fast-skill-desc-accordion">
+										<div id="fast-skill-desc" class="card-body">
+											
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="pages diagnostic-page">
+					<div id="diagnostic-title-div" class="col-12 mt-3 mb-1">
+						
+					</div>
+					<div class="d-flex justify-content-center align-items-center">
+						<div>
+							<div class="card mr-0">
+								<div onclick="repairTruck('body')" class="card-content">
+									<div id="diagnostic-body" class="card-body">
+										<!-- <div class="media d-flex">
+											<div class="media-body text-left">
+												<h3 class="text-success">100 %</h3>
+												<span>Reparar chassi</span>
+											</div>
+											<div class="align-self-center">
+												<i class="fas fa-tools text-success font-large-2 float-right"></i>
+											</div>
+										</div>
+										<div class="progress mt-1 mb-0" style="height: 7px;">
+											<div class="progress-bar bg-success" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="card mr-0">
+								<div onclick="repairTruck('engine')" class="card-content">
+									<div id="diagnostic-engine" class="card-body">
+										<!-- <div class="media d-flex">
+											<div class="media-body text-left">
+												<h3 class="text-success">100 %</h3>
+												<span>Reparar motor</span>
+											</div>
+											<div class="align-self-center">
+												<i class="fas fa-tools text-success font-large-2 float-right"></i>
+											</div>
+										</div>
+										<div class="progress mt-1 mb-0" style="height: 7px;">
+											<div class="progress-bar bg-success" role="progressbar" style="width: 100%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+										</div> -->
+									</div>
+								</div>
+							</div>
+
+							<div class="card mr-0">
+								<div onclick="repairTruck('transmission')" class="card-content">
+									<div id="diagnostic-transmission" class="card-body">
+										<!-- <div class="media d-flex">
+											<div class="media-body text-left">
+												<h3 class="text-success">100 %</h3>
+												<span>Reparar Transmissão</span>
+											</div>
+											<div class="align-self-center">
+												<i class="fas fa-tools text-success font-large-2 float-right"></i>
+											</div>
+										</div>
+										<div class="progress mt-1 mb-0" style="height: 7px;">
+											<div class="progress-bar bg-success" role="progressbar" style="width: 100%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+										</div> -->
+									</div>
+								</div>
+							</div>
+							
+							<div class="card mr-0">
+								<div onclick="repairTruck('wheels')" class="card-content">
+									<div id="diagnostic-wheels" class="card-body">
+										<!-- <div class="media d-flex">
+											<div class="media-body text-left">
+												<h3 class="text-success">100 %</h3>
+												<span>Reparar rodas</span>
+											</div>
+											<div class="align-self-center">
+												<i class="fas fa-tools text-success font-large-2 float-right"></i>
+											</div>
+										</div>
+										<div class="progress mt-1 mb-0" style="height: 7px;">
+											<div class="progress-bar bg-success" role="progressbar" style="width: 100%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="truck-img">
+							<img src="img/truck.png" alt="Truck">
+						</div>
+					</div>
+				</div>
+				<div class="pages dealership-page">
+					<div class="container-fluid d-flex justify-content-center">
+						<div id="dealership-page-list" class="row">
+							<!-- <div class="col-12 mt-3 mb-1">
+								<h4 class="text-uppercase">Dealership</h4>
+								<p>Buy more trucks to you and your drivers</p>
+							</div>
+							<div class="card"> <img src="img/icons/truck1.jpg" class="card-img-top" width="100%">
+								<div class="card-body pt-0 px-0">
+									<div class="d-flex flex-row justify-content-between mb-0 mt-3 px-3"> <span class="text-muted">Truck</span>
+										<h6>Scania</h6>
+									</div>
+									<hr class="mt-2 mx-3">
+									<div class="d-flex flex-row justify-content-between px-3 pb-4">
+										<div class="d-flex flex-column"><span class="text-muted">Price</span></div>
+										<div class="d-flex flex-column">
+											<h5 class="mb-0">&dollar;22,495</h5>
+										</div>
+									</div>
+									<div class="d-flex flex-row justify-content-between p-3 mid">
+										<div class="d-flex flex-column"><small class="text-muted mb-1">ENGINE</small>
+											<div class="d-flex flex-row"><img src="img/icons/engine_icon.jpg" width="35px" height="25px">
+												<div class="d-flex flex-column ml-1"><small class="ghj">1.4L MultiAir</small><small class="ghj">16V I-4 Turbo</small></div>
+											</div>
+										</div>
+										<div class="d-flex flex-column"><small class="text-muted mb-2">HORSEPOWER</small>
+											<div class="d-flex flex-row"><img src="img/icons/power_icon.jpg">
+												<h6 class="ml-1">135 hp</h6>
+											</div>
+										</div>
+									</div>
+									<div class="mx-3 mt-3 mb-2"><button type="button" class="btn btn-primary btn-block"><small>BUY</small></button></div> <small class="d-flex justify-content-center text-muted">*Legal Disclaimer</small>
+								</div>
+							</div> -->
+						</div>
+					</div>
+				</div>
+				<div class="pages trucks-page">
+					<div id="trucks-title-div" class="col-12 mt-3 mb-1">
+						
+					</div>
+					<ul id="trucks-page-list" class="list list-inline">
+						<!-- <li class="d-flex justify-content-between">
+							<div class="d-flex flex-row align-items-center"><i class="fa fa-check-circle checkicon"></i>
+								<div class="ml-2">
+									<h6 class="mb-0">Kickoff meeting</h6>
+									<div class="d-flex flex-row mt-1 text-black-50 date-time">
+										<div><i class="fas fa-route"></i></i><span class="ml-2">Distance: 22km</span></div>
+										<div class="ml-3"><i class="fas fa-coins"></i></i><span class="ml-2">Reward: 6.000</span></div>
+									</div>
+								</div>
+							</div>
+							<div class="d-flex flex-row align-items-center">
+								<div class="d-flex flex-column mr-2">
+									<select class="selectpicker form-control">
+										<option selected="selected">Select Driver</option>
+										<option value="1">1</option>
+										<option value="2">2</option>
+										<option value="3">3</option>
+									</select>
+								</div> 
+								<button class="btn btn-danger">Sell Truck</button>
+							</div>
+						</li> -->
+					</ul>
+				</div>
+				<div class="pages recruitment-page">
+					<div class="container-fluid d-flex justify-content-center">
+						<div id="recruitment-page-list" class="row">
+							<!-- <div class="col-12 mt-3 mb-1">
+								<h4 class="text-uppercase">Agência de recrutamento</h4>
+								<p>Recrute novos motoristas para trabalhar para sua empresa</p>
+							</div>
+							<div class="card user-card">
+								<div class="card-block">
+									<div class="user-image">
+										<img src="https://bootdey.com/img/icons/Content/avatar/avatar7.png" class="img-radius" alt="User-Profile-Image">
+									</div>
+									<h6 class="mt-4 mb-2">Alessa Robert</h6>
+									<p class="text-muted">Price: $500 + 5$/km</p>
+									<hr>
+									<p class="text-muted">Product Type</p>
+									<ul class="list-unstyled activity-leval">
+										<li class="actived"></li>
+										<li class="actived"></li>
+										<li class="actived"></li>
+										<li></li>
+										<li></li>
+									</ul>
+									<p class="text-muted">Distance</p>
+									<ul class="list-unstyled activity-leval">
+										<li class="actived"></li>
+										<li class="actived"></li>
+										<li class="actived"></li>
+										<li></li>
+										<li></li>
+									</ul>
+									<p class="text-muted">Valuable Cargo</p>
+									<ul class="list-unstyled activity-leval">
+										<li class="actived"></li>
+										<li class="actived"></li>
+										<li class="actived"></li>
+										<li></li>
+										<li></li>
+									</ul>
+									<p class="text-muted">Fragile Cargo</p>
+									<ul class="list-unstyled activity-leval">
+										<li class="actived"></li>
+										<li class="actived"></li>
+										<li class="actived"></li>
+										<li></li>
+										<li></li>
+									</ul>
+									<p class="text-muted">On-time delivery</p>
+									<ul class="list-unstyled activity-leval">
+										<li class="actived"></li>
+										<li class="actived"></li>
+										<li class="actived"></li>
+										<li></li>
+										<li></li>
+									</ul>
+									<div class="mx-3 mt-3 mb-2"><button type="button" class="btn btn-primary btn-block"><small>HIRE</small></button></div>
+								</div>
+							</div> -->
+						</div>
+					</div>
+				</div>
+				<div class="pages drivers-page">
+					<div id="mydrivers-title-div" class="col-12 mt-3 mb-1">
+
+					</div>
+					<ul id="drivers-page-list" class="list list-inline">
+						<!-- <li class="d-flex justify-content-between">
+							<div class="d-flex flex-row align-items-center"><i class="fa fa-check-circle checkicon"></i>
+								<div class="ml-2">
+									<h6 class="mb-0">Kickoff meeting</h6>
+									<div class="d-flex flex-row mt-1 text-black-50 date-time">
+										<div><i class="fas fa-route"></i></i><span class="ml-2">Distance: 22km</span></div>
+										<div class="ml-3"><i class="fas fa-coins"></i></i><span class="ml-2">Reward: 6.000</span></div>
+									</div>
+								</div>
+							</div>
+							<div class="d-flex flex-row align-items-center">
+								<div class="d-flex flex-column mr-2">
+									<select class="selectpicker form-control">
+										<option selected="selected">Select Truck</option>
+										<option value="1">1</option>
+										<option value="2">2</option>
+										<option value="3">3</option>
+									</select>
+								</div> 
+								<button class="btn btn-danger">Fire Driver</button>
+							</div>
+						</li> -->
+					</ul>
+				</div>
+				<div class="pages bank-page">
+					<div id="loan-title-div" class="col-12 mt-3 mb-1">
+						
+					</div>
+					<div class="d-flex">
+						<div class="card card-body" style="width: 55%;">
+							<div class="d-flex justify-content-between mx-2 my-4">
+								<div>
+									<h6 id="bank-balance-text"></h6>
+									<div class="d-flex align-items-center mt-3">
+										<i class="fas fa-coins text-primary font-large-2" aria-hidden="true"></i>
+										<h3 id="bank-money" style="font-weight: 900;font-family: 'Montserrat';font-size: 48px;color: #313443;" class="mb-0 ml-4"></h3>
+									</div>
+								</div>
+								<div class="d-flex flex-column justify-content-between" style="min-width: 200px;">
+									<button data-toggle="modal" data-target="#deposit-modal" id="deposit-money-btn" class="btn btn-outline-primary"></button>
+									<button data-toggle="modal" data-target="#withdraw-modal" id="withdraw-money-btn" class="btn btn-primary"></button>
+								</div>
+							</div>
+						</div>
+						<div id="loans-card-container" class="card card-body d-flex align-items-center" style="width: 45%;">
+							<h4 id="bank-loans-title" style="font-weight: 600; color: #343A40;"></h4>
+							<p id="bank-loans-desc" style="text-align: center;margin: 9px 0px;"></p>
+							<button data-toggle="modal" data-target="#loans-modal" id="bank-loans-btn" class="btn btn-outline-primary" style="min-width: 200px;"></button>
+						</div>
+					</div>
+					<div id="loan-table-container" class="card bg-white pb-2 pt-4 px-4 w-auto" style="display: none;">
+						<h4 id="active-loans-title" style="font-weight: 600; color: #343A40;"></h4>
+						<div class="loans-table-container">
+							<table class="table mb-0">
+								<thead>
+									<tr>
+										<th id="loan-value-title" style="width: 20%;"></th>
+										<th id="loan-daily-title" style="width: 25%;"></th>
+										<th id="loan-remaining-title" style="width: 25%;"></th>
+										<th style="width: 30%;"></th>
+									</tr>
+								</thead>
+								<tbody id="loan-table-body">
+									
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Modals -->
+				<div class="modal fade" id="loans-modal" aria-hidden="true">
+					<div class="modal-dialog modal-dialog-centered">
+						<div class="modal-content">
+							<div class="modal-header">
+								<h5 class="modal-title" id="loan-modal-title"></h5>
+								<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									<span aria-hidden="true">&times;</span>
+								</button>
+							</div>
+							<form id="form-loan" style="margin: 0;">
+								<div class="modal-body">
+									<p id="loan-modal-desc"></p>
+									<div class="form-check mb-2">
+										<input class="form-check-input" type="radio" name="loan-radio" id="loan-1" value="4" checked>
+										<label id="loan-modal-label-1" class="form-check-label" for="loan-1"></label>
+									</div>
+									<div class="form-check mb-2">
+										<input class="form-check-input" type="radio" name="loan-radio" id="loan-2" value="3" >
+										<label id="loan-modal-label-2" class="form-check-label" for="loan-2"></label>
+									</div>
+									<div class="form-check mb-2">
+										<input class="form-check-input" type="radio" name="loan-radio" id="loan-3" value="2" >
+										<label id="loan-modal-label-3" class="form-check-label" for="loan-3"></label>
+									</div>
+									<div class="form-check mb-2">
+										<input class="form-check-input" type="radio" name="loan-radio" id="loan-4" value="1" >
+										<label id="loan-modal-label-4" class="form-check-label" for="loan-4"></label>
+									</div>
+								</div>
+								<div class="modal-footer">
+									<button id="loan-modal-cancel" type="button" class="btn btn-outline-primary" data-dismiss="modal"></button>
+									<button id="loan-modal-submit" type="submit" class="btn btn-primary"></button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+
+				<div class="modal fade" id="deposit-modal" aria-hidden="true">
+					<div class="modal-dialog modal-dialog-centered">
+						<div class="modal-content">
+							<div class="modal-header">
+								<h5 class="modal-title" id="deposit-modal-title"></h5>
+								<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									<span aria-hidden="true">&times;</span>
+								</button>
+							</div>
+							<form id="form-deposit-money" style="margin: 0;">
+								<div class="modal-body">
+									<div class="form-group">
+										<label id="deposit-modal-desc" for="deposit-modal-money-amount"></label>
+										<input type="number" class="form-control mb-1 mt-2" id="deposit-modal-money-amount" placeholder="" name="amount" required>
+										<small id="deposit-modal-money-available" class="text-muted" style="font-size: 12px;"></small>
+									</div>
+								</div>
+								<div class="modal-footer">
+									<button id="deposit-modal-cancel" type="button" class="btn btn-outline-primary" data-dismiss="modal"></button>
+									<button id="deposit-modal-submit" type="submit" class="btn btn-primary"></button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+
+				<div class="modal fade" id="withdraw-modal" aria-hidden="true">
+					<div class="modal-dialog modal-dialog-centered">
+						<div class="modal-content">
+							<div class="modal-header">
+								<h5 class="modal-title" id="withdraw-modal-title"></h5>
+								<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									<span aria-hidden="true">&times;</span>
+								</button>
+							</div>
+							<form id="form-withdraw-money" style="margin: 0;">
+								<div class="modal-body">
+									<div class="form-group">
+										<label id="withdraw-modal-desc" for="withdraw-modal-money-amount"></label>
+										<input type="number" class="form-control mb-1 mt-2" id="withdraw-modal-money-amount" placeholder="" name="amount" required>
+										<small id="withdraw-modal-money-available" class="text-muted" style="font-size: 12px;"></small>
+									</div>
+								</div>
+								<div class="modal-footer">
+									<button id="withdraw-modal-cancel" type="button" class="btn btn-outline-primary" data-dismiss="modal"></button>
+									<button id="withdraw-modal-submit" type="submit" class="btn btn-primary"></button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+
+				<div class="pages party-page" style="overflow: hidden;">
+					<div class="container-fluid">
+						<div class="row">
+							<div id="party-title-div" class="col-12 mt-3 mb-1">
+								
+							</div>
+						</div>
+						<div id="party-form-container-base" class="party-body-initial">
+							<img src="img/party.png" alt="party">
+							<div class="party-buttons">
+								<div class="party-create">
+									<button id="party-create-btn" onclick="createParty()" class="btn btn-primary"></button>
+								</div>
+								<div class="party-join">
+									<button id="party-join-btn" onclick="joinParty()" class="btn btn-primary"></button>
+								</div>
+							</div>
+							<form id="party-form-create" class="party-form" role="form" style="opacity: 0; max-height: 0; padding: 0px; margin: 0px;">
+								<div id="party-form-container-create">
+									<!-- <input id="party-name" class="input-party" name="name" type="text" placeholder="Nome do Grupo*" oninput="InvalidMsg(this);" oninvalid="InvalidMsg(this);" required>
+									<input id="party-password" class="input-party input-pass" name="password" type="password" placeholder="Senha" oninput="InvalidMsg(this);" oninvalid="InvalidMsg(this);" required>
+									<input id="party-password-confirm" class="input-party input-pass" name="password-confirm" type="password" placeholder="Confirmar Senha" oninput="InvalidMsg(this);" oninvalid="InvalidMsg(this);" required>
+									<div class="ShowPasswordNotMatchesError" style="display:none;">* Password Mismatch</div>
+									<div class="party-members-container">
+										<input id="party-members" max="50" style="margin-bottom: 0px;" name="members" class="input-party" type="number" placeholder="Quantidade de Membros*" oninput="InvalidMsg(this,1,50);" oninvalid="InvalidMsg(this,1,50);" required>
+										<span></span>
+									</div>
+									<div class="ShowSubmitErrorCreate" style="display:none;"></div>
+									<button class="btn btn-primary btn-send btn-block submit-party-form" id="submit-party-form">Concluir</button> -->
+								</div>
+							</form>
+							<form id="party-form-join" class="party-form" role="form" style="opacity: 0; max-height: 0; padding: 0px; margin: 0px;">
+								<div id="party-form-container-join">
+									<!-- <input id="party-name-join" class="input-party" name="name" type="text" placeholder="Nome do Grupo*" oninput="InvalidMsg(this);" oninvalid="InvalidMsg(this);" required>
+									<input id="party-password-join" class="input-party input-pass" name="password" type="password" placeholder="Senha" oninput="InvalidMsg(this);" oninvalid="InvalidMsg(this);" required>
+									<div class="ShowSubmitErrorJoin" style="display:none;"></div>
+									<button class="btn btn-primary btn-send btn-block submit-party-form" id="submit-party-form-join">Concluir</button> -->
+								</div>
+							</form>
+						</div>
+
+						<ul id="party-container-members" class="list list-inline">
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<script src="lang/br.js" type="text/javascript"></script>
+		<script src="lang/en.js" type="text/javascript"></script>
+		<script src="panel.js" type="text/javascript"></script>
+	</body>
+</html>
